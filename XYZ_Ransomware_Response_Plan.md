@@ -1,5 +1,5 @@
 
-# 🏥 UBTH Health Care – Ransomware Incident Response Plan
+# 🏥 XYZ Health Care – Ransomware Incident Response Plan
 
 ## 🚨 1. Overview
 On **[Incident Date]**, UBTH Health Care experienced a **ransomware attack** that encrypted **critical patient data**, including **Electronic Health Records (EHRs)**.  
