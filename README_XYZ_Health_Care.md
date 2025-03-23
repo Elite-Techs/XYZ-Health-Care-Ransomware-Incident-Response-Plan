@@ -1,5 +1,5 @@
 
-# 🏥 UBTH Health Care – Ransomware Incident Response Plan
+# 🏥 XYZ Health Care – Ransomware Incident Response Plan
 
 ### 🚨 A Strategic Cybersecurity Plan for Healthcare Ransomware Attacks
 
@@ -29,8 +29,16 @@ Ransomware poses a **critical threat** to the **healthcare industry**, disruptin
 📢 **Contributions & Feedback:**  
 Have improvements or recommendations? Feel free to **open an issue or submit a pull request!**  
 
-📌 **Maintained by:** [Your Name / GitHub Handle]  
-📌 **License:** MIT License (Use and modify as needed)  
+
+📥 **View Financial Incident Response Plan:**  
+[**View the Financial Incident Response Plan**](https://github.com/Elite-Techs/XYZ-Health-Care-Ransomware-Incident-Response-Plan/blob/main/XYZ_Ransomware_Response_Plan.md)
+
+📥 **Download the PowerPoint Presentation:**  
+[**Download XYZ Health Care – Ransomware Incident Response Plan.pptx**](https://github.com/Elite-Techs/XYZ-Health-Care-Ransomware-Incident-Response-Plan/blob/main/XYZ%20Health%20Care%20%E2%80%93%20Ransomware%20Incident%20Response%20Plan.pptx)
+
+   
+📌 **Maintained by:** [**Prince Richard**](https://github.com/Elite-Techs)
+📌 **License:** MIT License (Feel free to use and modify)  
 
 ---
 
